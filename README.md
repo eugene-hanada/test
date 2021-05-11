@@ -1,3 +1,4 @@
 # test
 test
-- markdown????
+- markdown
+- gitignoreで
